@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Web3
 
 ![Anuraag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuraagChetia&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraagChetia&layout=donut)](https://github.com/AnuraagChetia/github-readme-stats)
