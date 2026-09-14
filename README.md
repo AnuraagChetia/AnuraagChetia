@@ -31,9 +31,3 @@ Git • Docker • Postman • MuleSoft • Jira
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🌱 Learning more about **backend engineering, system design, and distributed systems**
 - ⛓️ Exploring **Ethereum, Solidity, and Web3 development**
-
-### 📊 GitHub Stats
-
-![Anuraag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuraagChetia&show_icons=true&theme=transparent)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraagChetia&layout=donut)](https://github.com/AnuraagChetia/github-readme-stats)
