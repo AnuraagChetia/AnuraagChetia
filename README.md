@@ -1,23 +1,39 @@
-## Hi there I am Anuraag. I am a Full Stack Developer currently involving myself into the world of web3 👋
+# Hi, I'm Anuraag Chetia 👋
 
-<!--
-**AnuraagChetia/AnuraagChetia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Software Engineer | React • .NET • Node.js
 
-Here are some ideas to get you started:
+I'm a Full Stack Software Engineer with 2+ years of experience building and maintaining web applications, including large-scale enterprise systems.
 
-- 🔭 I’m currently working on a Web3 wallet
-- 🌱 I’m currently learning Web3
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience spans frontend development with **React, TypeScript, Redux, and JavaScript**, backend development with **ASP.NET Core, Node.js, and REST APIs**, and databases such as **SQL Server and MongoDB**.
 
-🔭 I’m currently working on a Web3 wallet
-🌱 I’m currently learning Web3
+I'm particularly interested in **backend engineering, distributed systems, and blockchain/Web3**, and I'm continuously working on strengthening my system design and problem-solving skills.
+
+### 🛠️ Tech Stack
+
+**Languages**  
+JavaScript • TypeScript • C# • Java • SQL • Solidity
+
+**Frontend**  
+React • Redux • HTML • CSS
+
+**Backend**  
+ASP.NET Core • Node.js • Express.js • REST APIs
+
+**Data & ORM**  
+Entity Framework Core • Sequelize • SQL Server • MongoDB
+
+**Tools & Technologies**  
+Git • Docker • Postman • MuleSoft • Jira
+
+### 🚀 What I'm Working On
+
+- 🔭 Building full-stack and backend projects with **ASP.NET Core & React**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🌱 Learning more about **backend engineering, system design, and distributed systems**
+- ⛓️ Exploring **Ethereum, Solidity, and Web3 development**
+
+### 📊 GitHub Stats
 
 ![Anuraag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuraagChetia&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraagChetia&layout=donut)](https://github.com/AnuraagChetia/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraagChetia&layout=donut)](https://github.com/AnuraagChetia/github-readme-stats)
